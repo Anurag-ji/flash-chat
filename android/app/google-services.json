@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958911215438",
+    "project_id": "flash-chat-ed9fa",
+    "storage_bucket": "flash-chat-ed9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958911215438:android:b2bba9f19ce2df89ae501f",
+        "android_client_info": {
+          "package_name": "co.AnuragTrivedi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958911215438-aoofoac2bve15m8lgi87lav0t7m94073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtvHZFD0jMMD7_tyD3XaLGnxwZL0UOrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958911215438-aoofoac2bve15m8lgi87lav0t7m94073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
